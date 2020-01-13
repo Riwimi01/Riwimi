@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Riwimi</string>
+    <string name="who_are_you">Who are you?</string>
+    <string name="captain">CAPTAIN</string>
+    <string name="customer">CUSTOMER</string>
+    <string name="captain_login">Captain Login</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="or">OR</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="customer_login">Customer Login</string>
+    <string name="captain_registration">Captain Registration</string>
+    <string name="name">Name</string>
+    <string name="contact">Contact</string>
+    <string name="register">Register</string>
+    <string name="customer_registration">Customer Registration</string>
+
+
+</resources>

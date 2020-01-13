@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Captain1Activity">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="30dp"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:contentDescription="@android:string/no"
+        android:src="@drawable/logo">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/captain_login"
+        android:layout_marginTop="220dp"
+        android:textAlignment="center"
+        android:textSize="32sp"
+        android:textColor="@android:color/background_dark"
+        >
+
+    </TextView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/email_address"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="290dp"
+        android:layout_marginRight="20dp"
+        android:textSize="22sp"
+        android:inputType="text"
+        android:autofillHints="" tools:targetApi="o">
+
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/password"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginRight="20dp"
+        android:textSize="22sp"
+        android:inputType="textPassword"
+        android:autofillHints="" tools:targetApi="o">
+
+    </EditText>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/log_in"
+        android:textSize="20sp"
+        android:background="@android:color/holo_orange_light"
+        android:layout_marginTop="430dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp">
+
+    </Button>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/or"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginTop="490dp">
+
+    </TextView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/create_new_account"
+        android:id="@+id/Rcap"
+        android:textSize="20sp"
+        android:background="@android:color/holo_orange_light"
+        android:layout_marginTop="530dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp">
+
+    </Button>
+
+
+
+</RelativeLayout>
+
+</ScrollView>
