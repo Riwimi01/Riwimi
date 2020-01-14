@@ -119,6 +119,10 @@ public class Captain1Activity extends AppCompatActivity {
 
 
     }
+    private void nepal()
+    {
+
+    }
 
     private void RegisterDriver(String email, String password) {
         if(TextUtils.isEmpty(email))
