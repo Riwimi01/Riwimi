@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "952491005956",
+    "firebase_url": "https://riwimi.firebaseio.com",
+    "project_id": "riwimi",
+    "storage_bucket": "riwimi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952491005956:android:a758dc8030e3bdf0f83d51",
+        "android_client_info": {
+          "package_name": "com.example.riwimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952491005956-qimmvhahu18gggbj7a19jnq3a4lo650n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riwimi",
+            "certificate_hash": "eea33812ccb31709d00b12ab71f879cdffc23f6b"
+          }
+        },
+        {
+          "client_id": "952491005956-pgoc2n1hq1me2a1kg1gqooa6iga1huvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuP2VxPrNht3kcTmtGuSYHWCgrQNIaQMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952491005956-pgoc2n1hq1me2a1kg1gqooa6iga1huvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
